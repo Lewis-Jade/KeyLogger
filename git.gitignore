@@ -1,0 +1,28 @@
+# 👟 Python cache
+__pycache__/
+*.pyc
+
+# 🧪 Virtual environments
+venv/
+env/
+.keylog_env/
+*.egg-info/
+
+# 📂 Logs (keystrokes, etc.)
+logs/
+*.log
+keylog.txt
+
+# 🌐 Ngrok config
+ngrok.yml
+.ngrok2/
+.config/ngrok/
+
+# 🔐 Secrets / env variables
+.env
+*.token
+
+# 🌐 VSCode + system clutter
+.vscode/
+.DS_Store
+Thumbs.db
